@@ -1,0 +1,18 @@
+
+CACHE_SIZE :1024
+ASSOCIATIVITY :1
+BLOCK_SIZE :32
+WRITE_POLICY :WT
+VICTIM_SIZE :4
+
+L1 read hit  :1
+L1 read miss :4
+Victim read hit  :0
+Victim read miss :4
+
+L1 write hit  :3
+L1 write miss :2
+Victim write hit  :0
+Victim write miss :2
+
+Total Memory acesses :9
